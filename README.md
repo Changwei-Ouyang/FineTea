@@ -7,7 +7,9 @@ An overview of actions in the FineTea dataset.
 </p> 
 
 ## Demo Video
-![demo video1: Flip over the glass cup](https://github.com/Changwei-Ouyang/FineTea/blob/main/demo1_Flip%20over%20the%20glass%20cup.gif) 
+<p align="center">
+ <img src="https://github.com/Changwei-Ouyang/FineTea/blob/main/demo1_Flip%20over%20the%20glass%20cup.gif" width="500px"> 
+</p>
 <p align="center">
   Demo video1: Flip over the glass cup
 </p>
