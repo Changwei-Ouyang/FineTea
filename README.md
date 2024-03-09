@@ -13,6 +13,18 @@ An overview of actions in the FineTea dataset.
 <p align="center">
   Demo video1: Flip over the glass cup
 </p>
+<p align="center">
+ <img src="https://github.com/Changwei-Ouyang/FineTea/blob/main/demo2_Swirl%20the%20black%20tea.gif" width="500px"> 
+</p>
+<p align="center">
+  Demo video2: Swirl the black tea
+</p>
+<p align="center">
+ <img src="https://github.com/Changwei-Ouyang/FineTea/blob/main/demo3_Present%20the%20oolong%20tea.gif" width="500px"> 
+</p>
+<p align="center">
+  Demo video3: Present the oolong tea
+</p>
 <br>
 <br>
 This is the release address of the FineTea dataset. If you need the dataset for experiments, please send an email to yunyics@163.com.
