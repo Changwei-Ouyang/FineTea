@@ -28,4 +28,4 @@ An overview of actions in the FineTea dataset.
 </p>
 <br>
 <br>
-This is the release address of the FineTea dataset. If you need the dataset for experiments, please send an email to yunyics@163.com.
+This is the release address of the FineTea dataset. If you need the dataset for experiments, please sign the end user license, and send an email to yunyi@gnnu.edu.cn.
