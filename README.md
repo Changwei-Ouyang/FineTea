@@ -6,24 +6,24 @@
 An overview of actions in the FineTea dataset.
 </p> 
 
-## Demo Video
+## Samples
 <p align="center">
  <img src="https://github.com/Changwei-Ouyang/FineTea/blob/main/demo1_Flip%20over%20the%20glass%20cup.gif" width="500px"> 
 </p>
 <p align="center">
-  Demo video1: Flip over the glass cup
+  Action 1: Flip over the glass cup
 </p>
 <p align="center">
  <img src="https://github.com/Changwei-Ouyang/FineTea/blob/main/demo2_Swirl%20the%20black%20tea.gif" width="500px"> 
 </p>
 <p align="center">
-  Demo video2: Swirl the black tea
+  Action 2: Swirl the black tea
 </p>
 <p align="center">
  <img src="https://github.com/Changwei-Ouyang/FineTea/blob/main/demo3_Present%20the%20oolong%20tea.gif" width="500px"> 
 </p>
 <p align="center">
-  Demo video3: Present the oolong tea
+  Action 3: Present the oolong tea
 </p>
 <br>
 <br>
