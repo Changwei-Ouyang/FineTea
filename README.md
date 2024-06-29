@@ -28,9 +28,9 @@ An overview of actions in the FineTea dataset.
 </p>
 
 ## Download
-Click here[download link](https://pan.baidu.com/s/1LyRcuH_0lvTtBoMQvvaR0w?pwd=15ad)
+Click here [download link](https://pan.baidu.com/s/1LyRcuH_0lvTtBoMQvvaR0w?pwd=15ad)
 <br>
-note: To access the dataset, please complete the license agreement. The decompression password will be provided upon completion.
+Note: To access the dataset, please complete the license agreement. The decompression password will be provided upon completion.
 
 <br>
 <br>
