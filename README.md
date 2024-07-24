@@ -7,7 +7,7 @@ The FineTea dataset consists of 9 basic action categories and 31 fine-grained ac
 An overview of actions in the FineTea dataset.
 </p> 
 
-## Samples
+## 1.Samples
 <p align="center">
  <img src="https://github.com/Changwei-Ouyang/FineTea/blob/main/demo1_Flip%20over%20the%20glass%20cup.gif" width="500px"> 
 </p>
@@ -27,7 +27,7 @@ An overview of actions in the FineTea dataset.
   Action 3: Present the oolong tea
 </p>
 
-## Download
+## 2.Dataset download
 Click here [download link](https://pan.baidu.com/s/1LyRcuH_0lvTtBoMQvvaR0w?pwd=15ad)
 <br>
 Note: To access the dataset, please complete the license agreement. The decompression password will be provided upon completion.
