@@ -1,4 +1,4 @@
-# FineTea
+# FineTea: A novel fine-grained action recognition video dataset for tea ceremony actions
 The FineTea dataset consists of 9 basic action categories and 31 fine-grained action subcategories.
 <p align="center">
  <img src="https://github.com/Changwei-Ouyang/FineTea/blob/main/finetea.png" width="500px"> 
